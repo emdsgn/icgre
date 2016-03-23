@@ -408,7 +408,6 @@ nav#slide-menu {
 	height: 100%;
 	  background-color: #2A786A;
 	overflow-x: hidden;
-overflow-y: scroll;
   z-index: 99999;
 
 	-moz-transition: all 300ms;
