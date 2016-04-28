@@ -239,7 +239,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">ICGRE 2017:</p>
-      <p class="body">ICGRE 2017 will  be held in Barcelona, Spain on April 3 - 4, 2017.</p>
+      <p class="body">ICGRE 2017 will  be held in Barcelona, Spain on April 3 - 4, 2017 at the Alimara Hotel Barcelona.</p>
       
       <!-- <p class="bold">Exhibition:</p>
       <p class="body">ICGRE'17 is proud to announce that there will be a table exhibition on behalf of <b>Robertson Geologging</b> during the duration of the conference!</p>
@@ -333,7 +333,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    Camera Ready Submission Deadline
+    Final Version of Extended Abstract or Paper Submission Deadline
   </div>
 </div>
 </div>
