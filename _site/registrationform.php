@@ -253,7 +253,7 @@ mail($your_email,$your_subject,$message,$your_headers);
       <ul>
         <li>Day 1: Workshop(s) and Registration</li>
         <li>Day 2: Main Track Conference Sessions</li>
-        <li>Day 2: Main Track Conference Sessions</li>
+        <li>Day 2: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
       </ul>
 
       <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
