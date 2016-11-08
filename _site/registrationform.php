@@ -59,11 +59,11 @@ $message = $message . PHP_EOL.PHP_EOL."-- ".PHP_EOL."";
 
 $message = stripslashes($message);
 
-$subject = "Registration Details for " . $_REQUEST['Email'];
+$subject = "Registration Details for " . $_REQUEST['email'];
 
-$headers = "From: " . $_REQUEST['Email'];
+$headers = "From: " . $_REQUEST['email'];
 
-$your_email = $_REQUEST['Email'];
+$your_email = $_REQUEST['email'];
 
 $your_subject = "Your Registration Details for ICGRE'17";
 
@@ -92,14 +92,14 @@ if ((($_FILES["file"]["type"] == "image/gif")
     {
       move_uploaded_file($_FILES["file"]["tmp_name"],"receipts/" . $_FILES["file"]["name"]);
       rename("receipts/".$_FILES['file']['name'],"receipts/".$date.'_'.$_FILES['file']['name']);
-	$filename = $date.'_'.$_FILES['file']['name'];
+  $filename = $date.'_'.$_FILES['file']['name'];
     }
   }
 else
   {
   die("The file you have selected for upload is invalid. <br />
-	Please make sure the file you are trying to upload is an image (.jpg, .jpeg, .png, .gif, .tif) <br />
-	No other file types are allowed.");
+  Please make sure the file you are trying to upload is an image (.jpg, .jpeg, .png, .gif, .tif) <br />
+  No other file types are allowed.");
   }
 
 mail($my_email,$subject,$message,$headers);
