@@ -309,6 +309,7 @@ mail($my_email,$subject,$message,$headers);
 					</div>
 				</div>
 			</section>
+    
     <h2>Upcoming Dates</h2>
 
 <div class="grid events">
@@ -329,7 +330,11 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
+<<<<<<< HEAD
     <div class="past">Dec. 10, 2016</div> Feb. 10, 2017
+=======
+    <div class="past">Dec. 10, 2016</div> Feb. 5, 2017
+>>>>>>> origin/gh-pages
   </div>
 </div>
 
