@@ -1,5 +1,4 @@
-day 2
-php
+<?php
 $my_email = "registration@icgre.org";
 $errors = array();
 
