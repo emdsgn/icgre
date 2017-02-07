@@ -259,7 +259,7 @@ mail($my_email,$subject,$message,$headers);
 
       <p class="bold">CSEE'17 Workshop</p>
       
-      <p class="body">International ASET Inc. is proud to present <b>Dr. Hany El Naggar</b> and <b>Dr. Mohamed Shanin</b> as the presenters of our workshop for the 2<sup>nd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'17).</p>
+      <p class="body">International ASET Inc. is proud to present <b>Dr. Hany El Naggar</b> and <b>Dr. Mohamed Shahin</b> as the presenters of our workshop for the 2<sup>nd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'17).</p>
 
       <p class="body" style="text-align: center!important;"><b>Topic of Workshop:</b> <i>Workshop on Numerical Modelling in Geotechnical Engineering</i></p>
 
