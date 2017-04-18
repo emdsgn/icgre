@@ -41,7 +41,7 @@ $message = build_message($_REQUEST);
 
 $message = 'Dear Colleague,
 
-Thank you for registering for ICGRE 2017. If you have requested any official letters, please allow up to 5 business days to receive your documents.
+Thank you for registering for ICGRE 2018. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
 If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@icgre.org. You can find the copyright form here: www.icgre.org/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
@@ -115,7 +115,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<title>ICGRE'17 - Registration Form Filled!</title>
+<title>ICGRE'18 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
