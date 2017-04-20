@@ -187,7 +187,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
         <div class="bg">
           <h1>3<sup>rd</sup> International Conference on Geotechnical<br>Research and Engineering (ICGRE'18)</h1>
-          <p class="subhead">MARCH 22 - 24, 2018 | BUDAPEST, HUNGARY</p>
+          <p class="subhead">April 8 - 10, 2018 | BUDAPEST, HUNGARY</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -216,7 +216,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
         <div class="bg">
           <h1>3<sup>rd</sup> International Conference on Geotechnical<br>Research and Engineering (ICGRE'18)</h1>
-          <p class="subhead">MARCH 22 - 24, 2018 | BUDAPEST, HUNGARY</p>
+          <p class="subhead">April 8 - 10, 2018 | BUDAPEST, HUNGARY</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -249,11 +249,11 @@ mail($your_email,$your_subject,$message,$your_headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">ICGRE 2018:</p>
-      <p class="body">ICGRE 2018 will  be held in Budapest, Hungary on March 22 - 24, 2018 at the Novotel Budapest Centrum.</p>
+      <p class="body">ICGRE 2018 will  be held in Budapest, Hungary on April 8 - 10, 2018 at the Novotel Budapest Centrum.</p>
 
       <p class="bold">CSEE'18 Workshop</p>
 
-       <p class="body">As per popular request, the organizing committee has decided to extend the ICGRE'18 conference to three days (now March 22 - 24, 2018). The new high-level schedule is as follows:</p>
+       <p class="body">As per popular request, the organizing committee has decided to extend the ICGRE'18 conference to three days (April 8 - 10, 2018). The new high-level schedule is as follows:</p>
 
       <ul>
         <li>Day 1: Workshop(s) and Registration</li>
@@ -261,7 +261,7 @@ mail($your_email,$your_subject,$message,$your_headers);
         <li>Day 3: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
       </ul>
       
-      <p class="body">Registration for the workshop will be separate from the main conferences. Workshop attendees will receive a certificate of participation. <!-- For registration, please visit: <a href="../registration" class="body-link">here</a>. --></p>
+      <p class="body">Registration for the workshop will be separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
 
       <p class="body">More information to follow; we greatly appreciate your patience!</p>
 
@@ -331,16 +331,47 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">Feb. 10, 2017</div> --> Mar. 22-24, 2018
+    <!-- <div class="past">Feb. 10, 2017</div> --> Sep. 28, 2017
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    <!-- <div class="past past-text">Final Regular Registration</div>  -->Conference Dates
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Paper Submission Deadline
   </div>
 </div>
 </div>
+
+<div class="grid events">
+<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
+  <div class="date">
+    <!-- <div class="past">Feb. 10, 2017</div> --> Oct. 26, 2017
+  </div>
+</div>
+
+<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
+  <div class="unit-spacer">
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Notification to Authors
+  </div>
+</div>
+</div>
+
+<div class="grid events">
+<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
+  <div class="date">
+    <!-- <div class="past">Feb. 10, 2017</div> --> Nov. 16, 2017
+  </div>
+</div>
+
+<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
+  <div class="unit-spacer">
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Early-Bird Registration
+  </div>
+</div>
+</div>
+
+
+
 
 
 <!-- The dates end here -->
