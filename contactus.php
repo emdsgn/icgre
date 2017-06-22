@@ -144,14 +144,14 @@ mail($my_email,$subject,$message,$headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
-        </div><br>
+</div><br>
 
         <p class="body" style="text-align:center!important; color: #FFF!important;">ICGRE'18 is part of the <b>3<sup>rd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'18)</b>.<br>For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
         
         </div> 
       </div>
     </div>
+  </div>
   </header>
 
   <div class="grid main-content">
@@ -217,21 +217,17 @@ mail($my_email,$subject,$message,$headers);
 
   <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
   <div class="unit-spacer">
+    
     <section class="main">
-				<div class="custom-calendar-wrap">
-					<div id="custom-inner" class="custom-inner">
-						<div class="custom-header clearfix">
-							<nav>
-								<span id="custom-prev" class="custom-prev"></span>
-								<span id="custom-next" class="custom-next"></span>
-							</nav>
-							<h2 id="custom-month" class="custom-month"></h2>
-							<h3 id="custom-year" class="custom-year"></h3>
-						</div>
-						<div id="calendar" class="fc-calendar-container"></div>
-					</div>
-				</div>
-			</section>
+
+        <ul class="side-bar-menu" style="padding:0px;">
+          <li><a href="../sponsor">Sponsors &amp; Exhibitors</a></li>
+          <li><a href="../symposium">Symposium &amp; Workshop</a></li>
+        </ul>
+
+    </section>
+
+    <br><br>
     
    <!-- The dates start here -->
 

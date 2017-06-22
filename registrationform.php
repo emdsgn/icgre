@@ -307,22 +307,15 @@ mail($your_email,$your_subject,$message,$your_headers);
   <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
   <div class="unit-spacer">
     <section class="main">
-				<div class="custom-calendar-wrap">
-					<div id="custom-inner" class="custom-inner">
-						<div class="custom-header clearfix">
-							<nav>
-								<span id="custom-prev" class="custom-prev"></span>
-								<span id="custom-next" class="custom-next"></span>
-							</nav>
-							<h2 id="custom-month" class="custom-month"></h2>
-							<h3 id="custom-year" class="custom-year"></h3>
-						</div>
-						<div id="calendar" class="fc-calendar-container"></div>
-					</div>
-				</div>
-			</section>
 
+        <ul class="side-bar-menu" style="padding:0px;">
+          <li><a href="../sponsor">Sponsors &amp; Exhibitors</a></li>
+          <li><a href="../symposium">Symposium &amp; Workshop</a></li>
+        </ul>
 
+    </section>
+
+    <br><br>
 
 <!-- The dates start here -->
 
