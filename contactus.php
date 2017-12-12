@@ -335,7 +335,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 </div>
 </div>
 
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script src="../js/jquery.nicescroll.min.js"></script>
   <script type="text/javascript" src="../js/jquery.calendario.js"></script>
     <script type="text/javascript" src="../js/data.js"></script>
