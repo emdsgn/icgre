@@ -107,8 +107,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 	</div>
 </div>
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on Geotechnical<br>Research and Engineering (ICGRE'18)</h1>
-          <p class="subhead">April 8 - 10, 2018 | BUDAPEST, HUNGARY</p>
+          <h1>4<sup>th</sup> International Conference on Geotechnical<br>Research and Engineering (ICGRE'19)</h1>
+          <p class="subhead">April, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -133,8 +133,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
         </div>
 
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on Geotechnical<br>Research and Engineering (ICGRE'18)</h1>
-          <p class="subhead">April 8 - 10, 2018 | BUDAPEST, HUNGARY</p>
+          <h1>4<sup>th</sup> International Conference on Geotechnical<br>Research and Engineering (ICGRE'19)</h1>
+          <p class="subhead">April, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -169,7 +169,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
   <div class="unit-spacer content">
     <p class="body">We have received your message and we will try our best to get back to you within the next 48 hours.<br><br>
-    Thank you for your interest in ICGRE'18.</p>
+    Thank you for your interest in ICGRE'19.</p>
   </div>
 </div>
 
@@ -191,17 +191,17 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 	<div class="unit-spacer">
 		<h2>Contact Us</h2>
 		<p class="body">International ASET Inc.<br>
-		Unit No. 417, 1376 Bank St.<br>
+		Unit No. 104, 2442 St. Joseph Blvd.<br>
 		Ottawa, Ontario, Canada<br>
-		Postal Code: K1H 7Y3<br>
-		+1-613-695-3040<br>
+		Postal Code: K1C 1G1<br>
+		+1-613-834-9999<br>
 		<a href="mailto:info@icgre.org">info@icgre.org</a></p>
 		</div>
 	</div>
 
 	<div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
 	<div class="unit-spacer">
-	<p class="body">For questions or comments regarding ICGRE'18, please fill out the form below:</p>
+	<p class="body">For questions or comments regarding ICGRE'19, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">
