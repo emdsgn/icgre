@@ -1,0 +1,6 @@
+RewriteEngine On
+AuthName "Restricted Area" 
+AuthType Basic 
+AuthUserFile /home/inter276/public_html/icgre.org/2019/.htpasswd 
+AuthGroupFile /dev/null 
+require valid-user
