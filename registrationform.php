@@ -67,9 +67,9 @@ $headers = "From: " . $_REQUEST['email'];
 
 $your_email = $_REQUEST['email'];
 
-$your_subject = "Your Registration Details for ICGRE'17";
+$your_subject = "Your Registration Details for ICGRE'18";
 
-$your_headers = "From: ICGRE'17 <" . $my_email . ">";
+$your_headers = "From: ICGRE'18 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -242,6 +242,29 @@ mail($your_email,$your_subject,$message,$your_headers);
       
 
 <!-- The dates end here -->
+
+  </div>
+  </div>
+  
+<div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
+  <div class="unit-spacer content">
+    <p class="body">Thank you for filling out the registration form. You should receive an email with your information. Please keep this email for your reference.</p>
+
+    <p class="body">If you do not receive an email, <strong>please check your SPAM folder</strong>.</p>
+
+  <p class="body">If you have requested any official invitation letters, please allow up to 5 business days to receive your documents.</p> 
+
+    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@icgre.com" class="body-link">registration@icgre.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
+
+  <p class="body">We are looking forward to seeing you at ICGRE'19!</p>
+  </div>
+</div>
+
+  <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
+  <div class="unit-spacer">
+
+
+
 
   </div>
   </div>
