@@ -43,9 +43,9 @@ $message = 'Dear Colleague,
 
 Thank you for registering for ICGRE 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@icgre.org. You can find the copyright form here: www.icgre.org/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@icgre.org. You can find the copyright form here: www.2019.icgre.org/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
-To reserve a room with a DISCOUNTED price, please fill out the provided booking form here: www.icgre.org/accommodation/#Novotel
+To reserve a room with a DISCOUNTED price, please fill out the provided booking form here: www.2019.icgre.org/accommodation/#Novotel
 
 You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@icgre.org mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
@@ -242,6 +242,29 @@ mail($your_email,$your_subject,$message,$your_headers);
       
 
 <!-- The dates end here -->
+
+  </div>
+  </div>
+  
+<div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
+  <div class="unit-spacer content">
+    <p class="body">Thank you for filling out the registration form. You should receive an email with your information. Please keep this email for your reference.</p>
+
+    <p class="body">If you do not receive an email, <strong>please check your SPAM folder</strong>.</p>
+
+  <p class="body">If you have requested any official invitation letters, please allow up to 5 business days to receive your documents.</p> 
+
+    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@icesdp.com" class="body-link">registration@icgre.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
+
+  <p class="body">We are looking forward to seeing you at ICGRE'19!</p>
+  </div>
+</div>
+
+  <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
+  <div class="unit-spacer">
+
+
+
 
   </div>
   </div>
