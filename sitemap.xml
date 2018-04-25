@@ -7,224 +7,314 @@
 <!-- www.check-domains.com sitemap generator -->
 
 <url>
-   <loc>http://2019.icgre.org/</loc>
-   <lastmod>2018-02-09T19:49:01+00:00</lastmod>
+   <loc>https://icgre.org/</loc>
+   <lastmod>2018-04-25T14:38:24+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>1.0000</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/past-events/</loc>
-   <lastmod>2018-02-09T19:49:02+00:00</lastmod>
+   <loc>https://icgre.org/past-events/</loc>
+   <lastmod>2018-04-25T14:38:25+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/papers/</loc>
-   <lastmod>2018-02-09T19:49:01+00:00</lastmod>
+   <loc>https://icgre.org/papers/</loc>
+   <lastmod>2018-04-25T14:38:25+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/program/</loc>
-   <lastmod>2018-02-09T19:49:02+00:00</lastmod>
+   <loc>https://icgre.org/program/</loc>
+   <lastmod>2018-04-25T14:38:25+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/dates/</loc>
-   <lastmod>2018-02-09T19:49:01+00:00</lastmod>
+   <loc>https://icgre.org/dates/</loc>
+   <lastmod>2018-04-25T14:38:24+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/registration/</loc>
-   <lastmod>2018-02-09T19:49:02+00:00</lastmod>
+   <loc>https://icgre.org/registration/</loc>
+   <lastmod>2018-04-25T14:38:25+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/committee/</loc>
-   <lastmod>2018-02-09T19:49:01+00:00</lastmod>
+   <loc>https://icgre.org/committee/</loc>
+   <lastmod>2018-04-25T14:38:24+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/keynote/</loc>
-   <lastmod>2018-02-09T19:49:01+00:00</lastmod>
+   <loc>https://icgre.org/keynote/</loc>
+   <lastmod>2018-04-25T14:38:24+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/venue/</loc>
-   <lastmod>2018-02-26T19:38:23+00:00</lastmod>
+   <loc>https://icgre.org/venue/</loc>
+   <lastmod>2018-04-25T14:38:26+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/accommodation/</loc>
-   <lastmod>2018-02-26T16:39:47+00:00</lastmod>
+   <loc>https://icgre.org/accommodation/</loc>
+   <lastmod>2018-04-25T14:38:24+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/sponsor/</loc>
-   <lastmod>2018-02-09T19:49:02+00:00</lastmod>
+   <loc>https://icgre.org/sponsor/</loc>
+   <lastmod>2018-04-25T14:38:25+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/symposium/</loc>
-   <lastmod>2018-02-09T19:49:02+00:00</lastmod>
+   <loc>https://icgre.org/symposium/</loc>
+   <lastmod>2018-04-25T14:38:25+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/past-events/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/openconf/openconf.php</loc>
+   <lastmod>2018-04-25T20:05:58+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/terms/</loc>
-   <lastmod>2018-02-09T19:49:02+00:00</lastmod>
+   <loc>https://icgre.org/past-events/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/sitemap/</loc>
-   <lastmod>2018-02-09T19:49:02+00:00</lastmod>
+   <loc>https://icgre.org/terms/</loc>
+   <lastmod>2018-04-25T14:38:25+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/ICGRE19_Paper_Template.docx</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/sitemap/</loc>
+   <lastmod>2018-04-25T14:38:25+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icgre.org/ICGRE19_Paper_Template.docx</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/ICGRE19_Extended_Abstract.docx</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/ICGRE19_Extended_Abstract.docx</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/ICGRE19_CopyrightForm.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/ICGRE19_CopyrightForm.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/papers/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/papers/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/program/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/program/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/dates/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/dates/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/registration/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/registration/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/committee/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/committee/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/keynote/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/keynote/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/venue/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/venue/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/accommodation/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/accommodation/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/sponsor/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/sponsor/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/symposium/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/symposium/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/terms/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/openconf/author/contact.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/sitemap/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/openconf/author/edit.php</loc>
+   <lastmod>2018-04-25T20:06:04+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.5120</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/banktobank/</loc>
-   <lastmod>2018-02-09T19:49:01+00:00</lastmod>
+   <loc>https://icgre.org/openconf/author/upload.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icgre.org/openconf/author/paper.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icgre.org/openconf/author/withdraw.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icgre.org/openconf/author/status.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icgre.org/openconf/review/signin.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icgre.org/openconf/chair/signin.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icgre.org/terms/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icgre.org/sitemap/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>https://icgre.org/banktobank/</loc>
+   <lastmod>2018-04-25T14:38:24+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.4096</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/moneyorder/</loc>
-   <lastmod>2018-02-09T19:49:01+00:00</lastmod>
+   <loc>https://icgre.org/moneyorder/</loc>
+   <lastmod>2018-04-25T14:38:24+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.4096</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/paypal/</loc>
-   <lastmod>2018-02-09T19:49:02+00:00</lastmod>
+   <loc>https://icgre.org/paypal/</loc>
+   <lastmod>2018-04-25T14:38:25+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.4096</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/banktobank/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/openconf/author/email_papers.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icgre.org/openconf/author/reset.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icgre.org/openconf/review/email_username.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icgre.org/openconf/review/reset.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icgre.org/openconf/chair/email_username.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icgre.org/openconf/chair/reset.php</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>https://icgre.org/banktobank/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.3277</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/moneyorder/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/moneyorder/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.3277</priority>
 </url>
 <url>
-   <loc>http://2019.icgre.org/paypal/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T18:56:09+00:00</lastmod>
+   <loc>https://icgre.org/paypal/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-04-25T20:04:11+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.3277</priority>
 </url>
