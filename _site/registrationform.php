@@ -69,7 +69,7 @@ $your_email = $_REQUEST['email'];
 
 $your_subject = "Your Registration Details for ICGRE'19";
 
-$your_headers = "From: ICGRE'17 <" . $my_email . ">";
+$your_headers = "From: ICGRE'19 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
